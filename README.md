@@ -62,5 +62,17 @@ My Leetcode Solutions (125+): JavaScript and Python
 | #138 Copy List with Random Pointer  | [leetcode.com](https://leetcode.com/problems/copy-list-with-random-pointer/)  | Medium | JS(55.83%)|JavaScript|
 | #144 Binary Tree Preorder Traversal  | [leetcode.com](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | Medium | JS(57.81%) Python(94.20%)|JavaScript and Python|
 | #145  Binary Tree Postorder Traversal  | [leetcode.com](https://leetcode.com/problems/binary-tree-postorder-traversal/)  | Hard | JS(98.13%) Python(94.33%)|JavaScript and Python|
+| #146  LRU Cache  | [leetcode.com](https://leetcode.com/problems/lru-cache/)  | Medium | JS(82.68%)|JavaScript|
+| #148  Sort List  | [leetcode.com](https://leetcode.com/problems/sort-list/)  | Medium | JS(28.01%)|JavaScript|
+| #153  Find Minimum in Rotated Sorted Array  | [leetcode.com](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  | Medium | JS(64.09%) Python(86.18%)|JavaScript and Python|
+| #160  Intersection of Two Linked Lists  | [leetcode.com](https://leetcode.com/problems/intersection-of-two-linked-lists)  | Easy | JS(58.10%)|JavaScript|
+| #167  Two Sum II - Input array is sorted  | [leetcode.com](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | Easy | JS(97.58%)|JavaScript|
+| #173  Binary Search Tree Iterator     | [leetcode.com](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | Medium | JS(97.90%)|JavaScript|
+| #199 Binary Tree Right Side View     | [leetcode.com](https://leetcode.com/problems/binary-tree-right-side-view/)  | Medium | JS(81.90%) Python(86.12%)|JavaScript and Python|
+| #200 Number of Islands     | [leetcode.com](https://leetcode.com/problems/number-of-islands/)  | Medium | JS(81.90%) Python(86.12%)|JavaScript and Python|
+| #206 Reverse Linked List     | [leetcode.com](https://leetcode.com/problems/reverse-linked-list)  | Easy | JS(81.51%)|JavaScript|
+| #215 Kth Largest Element in an Array     | [leetcode.com](https://leetcode.com/problems/kth-largest-element-in-an-array)  | Medium | JS(51.54%)|JavaScript|
+| #226 Invert Binary Tree     | [leetcode.com](https://leetcode.com/problems/invert-binary-tree/)  | Easy | JS(93.18%)|JavaScript|
+| #230 Kth Smallest Element in a BST     | [leetcode.com](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | Medium | JS(54.47%)|JavaScript|
 
 
