@@ -115,6 +115,23 @@ My Leetcode Solutions (125+): JavaScript and Python
 | #673 Number of Longest Increasing Subsequence | [leetcode.com](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)  | Medium |  JS(75.00%)|JavaScript|
 | #692 Top K Frequent Words | [leetcode.com](https://leetcode.com/problems/top-k-frequent-words/)  | Medium |  JS(98.09%)|JavaScript|
 | #695 Max Area of Island | [leetcode.com](https://leetcode.com/problems/max-area-of-island/)  | Medium |  JS(91.72%)|JavaScript|
+| #700 Search in a Binary Search Tree | [leetcode.com](https://leetcode.com/problems/search-in-a-binary-search-tree/)  | Easy |  JS(92.30%)|JavaScript|
+| #733 Flood Fill | [leetcode.com](https://leetcode.com/problems/flood-fill/)  | Easy |  Python(50.49%)|Python|
+| #767 Reorganize String | [leetcode.com](https://leetcode.com/problems/reorganize-string/)  | Medium |  JS(86.17%)|JavaScript|
+| #771 Jewels and Stones | [leetcode.com](https://leetcode.com/problems/jewels-and-stones/)  | Easy |  JS(37.29%)|JavaScript|
+| #779 K-th Symbol in Grammar | [leetcode.com](https://leetcode.com/problems/k-th-symbol-in-grammar/submissions/)  | Medium |  JS(69.14%)|JavaScript|
+| #912 Sort an Array | [leetcode.com](https://leetcode.com/problems/sort-an-array/)  | Medium |  JS(42.60%)|JavaScript|
+| #921 Minimum Add to Make Parentheses Valid | [leetcode.com](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)  | Medium |  JS(91.62%)|JavaScript|
+| #934 Shortest Bridge | [leetcode.com](https://leetcode.com/problems/shortest-bridge/)  | Medium |  JS(57.33%)|JavaScript|
+| #938 Range Sum of BST | [leetcode.com](https://leetcode.com/problems/range-sum-of-bst/)  | Easy |  JS(82.50%)|JavaScript|
+| #965 Univalued Binary Tree | [leetcode.com](https://leetcode.com/problems/univalued-binary-tree/)  | Easy |  JS(98.63%)|JavaScript|
+| #973 K Closest Points to Origin | [leetcode.com](https://leetcode.com/problems/k-closest-points-to-origin/)  | Medium |  JS(73.38%)|JavaScript|
+| #986 Interval List Intersections | [leetcode.com](https://leetcode.com/problems/interval-list-intersections/)  | Medium |  JS(94.53%) Python(83.35%)|JavaScript and Python|
+| #1054 Distant Barcodes | [leetcode.com](https://leetcode.com/problems/distant-barcodes/)  | Medium |  JS(73.28%) Python(87.52%)|JavaScript and Python|
+| #1091 Shortest Path in Binary Matrix | [leetcode.com](https://leetcode.com/problems/shortest-path-in-binary-matrix/)  | Medium |  JS(100%) Python(77.66%)|JavaScript and Python|
+| #1108 Defanging an IP Address | [leetcode.com](https://leetcode.com/problems/defanging-an-ip-address/)  | Easy |  JS(42.88%) |JavaScript|
+
+
 
 
 
